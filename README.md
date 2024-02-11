@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/akashviradiya8" target="blank"><img src="https://img.shields.io/twitter/follow/akashviradiya8?logo=twitter&style=for-the-badge" alt="akashviradiya8" /></a> </p>
 
-- 🔭 I’m currently working on **LoadUp Android application**
+- 🔭 I’m currently working on **Android application projects**
 
-- 🌱 I’m currently learning **Java android, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **android,iOS,java,C#,Firebase,SQL,XML,HTML,CSS**
 
 - 📫 How to reach me **viradiyaakash99@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
